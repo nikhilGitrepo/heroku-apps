@@ -1,6 +1,0 @@
-{
-  "name": "Java Blog Site",
-  "description": "Spring Web App + JPA + Hibernate + Batch + Security + Tiles UI Integration + JSP",
-  "image": "heroku/java",
-  "addons": []
-}
